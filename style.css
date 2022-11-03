@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  padding: 16px;
+  font-family: 'Acme' !important;
+  font-size: 20px !important;
+}
+#main{
+  padding-left: 50px; padding-right: 50px; padding-top: 75px
+}
+.acme{
+  font-family: 'Acme' !important;
+}
+.audiowide{
+  font-family: 'Audiowide' !important;
+}
+.kelly{
+  font-family: 'Kelly Slab' !important;
+}
+.red{
+    color: red !important;
+}
+a {
+  color: #00B7FF;
+  text-decoration: none !important;
+}
+.w3-bar-item{
+  margin-right: 12px;
+}
+.w3-top{
+  background-color: #111111
+}
+.jumbotron{
+  background-color: #111111 !important
+}
+.command-head:hover{
+  background-color: #111111
+}
+.command-head{
+  cursor: pointer;
+}
+.format{
+  padding: 2px 4px 2px 4px;
+  background-color:#333;
+}
